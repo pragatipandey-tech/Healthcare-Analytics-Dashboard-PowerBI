@@ -14,7 +14,7 @@ The dashboard is structured into three key pages, each focusing on different asp
 - Analyze appointment trends and status
 - Understand revenue patterns
 - Identify top-performing doctors
-- Explore patient demographics and behavior
+- Explore patient demographics and behavior. 
 
 ---
 
