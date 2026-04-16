@@ -14,7 +14,7 @@ The dashboard is structured into three key pages, each focusing on different asp
 - Analyze appointment trends and status
 - Understand revenue patterns
 - Identify top-performing doctors
-- Explore patient demographics and behavior. 
+- Explore patient demographics and behavior
 
 ---
 
@@ -38,7 +38,7 @@ The dashboard is structured into three key pages, each focusing on different asp
   - Patient Distribution by Age Group  
 
 - Slicer:
-  - High-level filtering (e.g., category-based)
+  - High-level filtering(e.g., category-based)
 
 Purpose: Provides a quick snapshot of overall healthcare performance.
 
