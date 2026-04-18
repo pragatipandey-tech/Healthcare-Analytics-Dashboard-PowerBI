@@ -128,3 +128,13 @@ This dashboard provides a complete analytical view of healthcare operations, ena
 - Interview-ready project  
 
 ---
+
+## 🤝 Contribution
+
+This is a personal project. Feedback and suggestions are welcome!
+
+---
+
+## ⭐ Acknowledgement
+
+Dataset sourced from Kaggle.
