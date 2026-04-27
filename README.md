@@ -2,21 +2,9 @@
 
 ## 📌 Project Overview
 
-This project presents a comprehensive Healthcare Analytics Dashboard built using Power BI. 
+This project showcases a fully interactive Healthcare Analytics Dashboard built using Power BI.
 
-It provides insights into appointments, revenue, patient demographics, and operational performance through interactive and visually appealing reports. 
-
-The dashboard is structured into three key pages, each focusing on different aspects of healthcare data to support data-driven decision-making.
-
----
-
-## 🎯 Objectives
-
-- Monitor overall healthcare performance
-- Analyze appointment trends and status
-- Understand revenue patterns
-- Identify top-performing doctors
-- Explore patient demographics and behavior
+It provides insights into appointments, revenue, patient demographics, and doctor performance. The dashboard is divided into three structured pages for better analysis and decision-making.
 
 ---
 
@@ -24,60 +12,61 @@ The dashboard is structured into three key pages, each focusing on different asp
 
 ---
 
-## 🏠 1. Overview Page
+## 🏠 1. Overview Dashboard
 
 ### Key Features:
 - KPI Cards:
-  - Total Appointments  
-  - Total Patients  
   - Total Revenue  
   - Total Treatment Cost  
+  - Total Appointments  
+  - Total Patients  
   - Cancellation Rate  
   - Avg Revenue per Patient  
 
 - Visuals:
-  - Payment Method Distribution  
-  - Patient Distribution by Age Group  
+  - Payment Method Distribution (Donut Chart)  
+  - Patient Distribution by Age Group (Bar Chart)  
+  - Patient Gender Distribution (Donut Chart)  
 
 - Slicer:
-  - High-level filtering(e.g., category-based)
+  - Payment Method  
 
-Purpose: Provides a quick snapshot of overall healthcare performance.
+### Purpose:
+Provides a high-level summary of overall healthcare performance.
 
 ---
 
 ## 📅 2. Appointment & Revenue Insights
 
 ### Key Features:
-- Appointment Status Distribution (Pie Chart)
-- Appointment Trend Over Time (Line Chart)
-- Revenue Trend Over Time (Line Chart)
-- Top Doctors by Appointments (Bar Chart)
-- Patient Gender Distribution
+- Appointment Status Distribution (Pie Chart)  
+- Appointment Trend Over Time (Line Chart)  
+- Revenue Trend Over Time (Line Chart)  
+- Top Doctors by Appointments (Bar Chart)  
+- Patient Gender Distribution (Donut Chart)  
 
 - Slicer:
-  - Appointment Status (interactive filtering)
+  - Appointment Status  
 
-Purpose: Helps analyze trends, operational performance, and appointment behavior.
+### Purpose:
+Helps analyze appointment behavior, operational efficiency, and revenue trends over time.
 
 ---
 
-## 📈 3. Business Insights & Performance Analysis
+## 📈 3. Advanced Healthcare Insights
 
 ### Key Features:
-- Revenue by Treatment Type  
-- Top Revenue Generating Doctors  
-- Revenue by Age Group  
-- Appointments by Reason for Visit  
-
-- KPI:
-  - Revenue per Appointment  
+- Top Revenue Generating Doctors (Bar Chart)  
+- Revenue Share by Treatment (Donut Chart)  
+- Avg Revenue per Treatment (Bar Chart)  
+- Monthly Revenue Trend (Line Chart)  
 
 - Slicers:
   - Treatment Type  
   - Doctor Name  
 
-Purpose: Provides deeper business insights for strategic decision-making.
+### Purpose:
+Provides deep business insights for revenue optimization and strategic decision-making.
 
 ---
 
@@ -92,11 +81,11 @@ Purpose: Provides deeper business insights for strategic decision-making.
 
 ## 📊 Key Insights Generated
 
-- Identification of high-revenue treatments  
-- Analysis of appointment trends over time  
-- Understanding patient demographics  
-- Doctor performance comparison  
-- Revenue optimization opportunities  
+- Identification of top-performing doctors  
+- Revenue contribution by treatment type  
+- Monthly revenue trends and fluctuations  
+- Appointment patterns and cancellations  
+- Patient demographic analysis  
 
 ---
 
@@ -107,23 +96,23 @@ Purpose: Provides deeper business insights for strategic decision-making.
 3. Navigate across pages:
    - Overview → Summary  
    - Page 2 → Trends  
-   - Page 3 → Insights  
+   - Page 3 → Advanced Insights  
 
 ---
 
 ## 📌 Conclusion
 
-This dashboard provides a complete analytical view of healthcare operations, enabling stakeholders to:
-
+This dashboard helps stakeholders:
 - Improve operational efficiency  
 - Optimize revenue streams  
-- Enhance patient management strategies  
+- Understand patient behavior  
+- Make data-driven healthcare decisions  
 
 ---
 
 ## ⭐ Project Highlights
 
-- Clean and professional UI  
+- Clean and modern UI design  
 - Interactive filtering using slicers  
 - Logical page structure (Overview → Trends → Insights)  
 - Business-focused insights  
