@@ -70,6 +70,23 @@ Provides deep business insights for revenue optimization and strategic decision-
 
 ---
 
+## 📸 Dashboard Preview
+
+### 🏠 Overview Page
+![Overview](assets/Overview.png)
+
+---
+
+### 📅 Appointment & Revenue Insights
+![Appointment](assets/Appointment.png)
+
+---
+
+### 📈 Advanced Healthcare Insights
+![Advanced](assets/advanced.png)
+
+---
+
 ## 🛠️ Tools & Technologies
 
 - Power BI Desktop  
