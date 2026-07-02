@@ -31,7 +31,7 @@ It provides insights into appointments, revenue, patient demographics, and docto
 - Slicer:
   - Payment Method  
 
-### Purpose:
+### Purpose:-
 Provides a high-level summary of overall healthcare performance.
 
 ---
