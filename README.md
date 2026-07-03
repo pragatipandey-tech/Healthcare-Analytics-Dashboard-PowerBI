@@ -31,7 +31,7 @@ It provides insights into appointments, revenue, patient demographics, and docto
 - Slicer:
   - Payment Method  
 
-### Purpose:-
+### Purpose:
 Provides a high-level summary of overall healthcare performance.
 
 ---
@@ -48,7 +48,7 @@ Provides a high-level summary of overall healthcare performance.
 - Slicer:
   - Appointment Status  
 
-### Purpose:-
+### Purpose:
 Helps analyze appointment behavior, operational efficiency, and revenue trends over time.
 
 ---
