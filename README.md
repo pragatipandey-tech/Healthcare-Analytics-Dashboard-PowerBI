@@ -65,7 +65,7 @@ Helps analyze appointment behavior, operational efficiency, and revenue trends o
   - Treatment Type  
   - Doctor Name  
 
-### Purpose:-
+### Purpose:
 Provides deep business insights for revenue optimization and strategic decision-making.
 
 ---
