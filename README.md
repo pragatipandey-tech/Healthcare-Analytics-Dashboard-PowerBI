@@ -4,7 +4,7 @@
 
 This project showcases a fully interactive Healthcare Analytics Dashboard built using Power BI. 
 
-It provides insights into appointments, revenue, patient demographics, and doctor performance. The dashboard is divided into three structured pages for better analysis and decision-making.
+It provides insights into appointments, revenue, patient demographics, and doctor performance. The dashboard is divided into three structured pages for better analysis and decision-making
 
 ---
 
